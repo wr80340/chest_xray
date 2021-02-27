@@ -35,3 +35,5 @@ no augment | 1.00 | 0.97 | 0.80
 no standardize | 0.98 | 0.97 | 0.84
 no dropout | 0.98 | 0.96 | 0.77
 no batch norm | 0.99 | 0.96 | 0.84
+## wandb 
+https://wandb.ai/wr80340/chest_xray
