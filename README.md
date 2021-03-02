@@ -40,6 +40,6 @@ no dropout | 0.98 | 0.96 | 0.77
 no batch norm | 0.99 | 0.96 | 0.84
 
 ## Wandb 
-A website which records loss and accuracy
+A website which records loss and accuracy  
 https://wandb.ai/wr80340/chest_xray
 
